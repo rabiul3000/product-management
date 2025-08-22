@@ -13,6 +13,21 @@ A simple **Next.js 15** application with public and protected pages. Users can v
 ## Live Site
 Check out the live app here: [Eleget Live Site](https://product-management-brown-eight.vercel.app)
 
+## Route Summary
+
+| Route | Method | Access | Description |
+|-------|--------|--------|-------------|
+| `/` | GET | Public | Landing page with Navbar, Hero, Product Highlights, and Footer |
+| `/products` | GET | Public | List of all products with brief details |
+| `/products/[id]` | GET | Public | Product detail page showing full information of a single product |
+| `/login` | GET/POST | Public | Login page with Google OAuth (via NextAuth.js) |
+| `/dashboard/add-product` | GET/POST | Protected | Form to add a new product. Only accessible to logged-in users. Redirects to `/login` if unauthenticated |
+| `/api/products` | GET | Public | API route to fetch products (used internally) |
+| `/api/products` | POST | Protected | API route to add a new product. Only accessible to authenticated users |
+| `/api/auth/[...nextauth]` | GET/POST | Public | NextAuth.js authentication endpoints (Google login, session handling) |
+
+
+
 ## Github Repository Link
 Check out the Repo here: [Eleget Github repo](https://github.com/rabiul3000/product-management.git)
 
