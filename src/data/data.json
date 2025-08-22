@@ -68,5 +68,19 @@
     "description": "High-speed portable solid-state drive with USB-C support.",
     "price": 119.99,
     "image_url": "http://googleusercontent.com/image_collection/image_retrieval/9677893057160446835_0"
+  },
+  {
+    "id": 11,
+    "name": "apple",
+    "description": "A apple a day keep the doctors away",
+    "price": 120,
+    "image_url": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg"
+  },
+  {
+    "id": 12,
+    "name": "another apple",
+    "description": "This is another description for another apple",
+    "price": 140,
+    "image_url": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg"
   }
 ]

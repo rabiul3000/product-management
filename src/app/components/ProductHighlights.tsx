@@ -1,5 +1,6 @@
 import React from "react";
-import products from "@/app/data.json";
+import products from "@/data/data.json"; // updated path
+import Link from "next/link";
 
 const ProductHighlights = () => {
   return (
@@ -29,9 +30,12 @@ const ProductHighlights = () => {
                 <span className="text-lg font-bold text-sky-600">
                   ${product.price}
                 </span>
-                <button className="px-4 py-2 bg-sky-500 text-white rounded-lg hover:bg-sky-600 transition-colors">
+                <Link
+                  href={`/products/${product.id}`}
+                  className="px-4 py-2 bg-sky-500 text-white rounded-lg hover:bg-sky-600 transition-colors"
+                >
                   View Details
-                </button>
+                </Link>
               </div>
             </div>
           </div>

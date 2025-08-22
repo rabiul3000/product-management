@@ -1,41 +1,9 @@
-Here’s a clear **to-do list** breakdown of your requirements so you can track progress while building your Next.js 15 app:
-
----
-
-## ✅ Core Todos
-
-
 ### **Landing Page (/**)
 
 * [ ] Add **Footer**
 * [ ] Ensure navigation works without login
 
----
 
-### **Login Page (/login)**
-
-* [ ] Create login page UI
-* [ ] Add NextAuth login button (Google or Credentials)
-* [ ] Redirect to `/products` after successful login
-
----
-
-### **Product List Page (/products)**
-
-* [ ] Create `/products/page.js`
-* [ ] Fetch products from a mock backend or local JSON file
-* [ ] Display list with: `name`, `description`, `price`, and **Details** button
-* [ ] Link each product to `/products/[id]`
-
----
-
-### **Product Details Page (/products/\[id])**
-
-* [ ] Create dynamic route `/products/[id]/page.js`
-* [ ] Fetch product details by ID
-* [ ] Display all product details
-
----
 
 ### **Protected Add Product Page (/dashboard/add-product)**
 
