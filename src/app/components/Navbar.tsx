@@ -44,8 +44,9 @@ const Navbar = () => {
           <li className="flex items-center gap-3">
             <img
               src={session.user?.image || "/default-avatar.png"}
-              alt="Profile"
+              alt="avatar"
               className="w-9 h-9 rounded-full border-2 border-white"
+              loading="lazy"
             />
             <button
               onClick={() => signOut({ callbackUrl: "/" })}

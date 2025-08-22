@@ -12,7 +12,7 @@ const AddProductPage = async () => {
     redirect("/login"); // redirect unauthenticated users
   }
 
-  return <AddProductForm />; // render your client-side form
+  return <AddProductForm />; // render your client-side component
 };
 
 export default AddProductPage;
