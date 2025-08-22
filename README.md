@@ -13,6 +13,9 @@ A simple **Next.js 15** application with public and protected pages. Users can v
 ## Live Site
 Check out the live app here: [Eleget Live Site](https://product-management-brown-eight.vercel.app)
 
+## Github Repository Link
+Check out the Repo here: [Eleget Github repo](https://github.com/rabiul3000/product-management.git)
+
 ## Installation & get started
 
 1. **Clone the repository**
