@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { FaTwitter, FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -50,28 +51,28 @@ const Footer = () => {
               target="_blank"
               className="hover:text-gray-300"
             >
-              🐦
+              <FaTwitter />
             </a>
             <a
               href="https://facebook.com"
               target="_blank"
               className="hover:text-gray-300"
             >
-              👍
+              <FaFacebook />
             </a>
             <a
               href="https://instagram.com"
               target="_blank"
               className="hover:text-gray-300"
             >
-              📸
+              <FaInstagram />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/rabiul3000"
               target="_blank"
               className="hover:text-gray-300"
             >
-              💼
+              <FaLinkedin />
             </a>
           </div>
         </div>
