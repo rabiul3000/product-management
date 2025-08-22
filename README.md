@@ -20,7 +20,3 @@
 * [ ] Add **loading spinner** when submitting forms
 * [ ] Add **toast notification** after product add success/failure
 * [ ] Implement **light/dark theme toggle** (e.g., with Tailwind + next-themes)
-
----
-
-Would you like me to also **order these tasks into a step-by-step build roadmap** (so you know exactly what to do first, second, etc.), or just keep it as a flat to-do list?

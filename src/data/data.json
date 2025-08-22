@@ -82,5 +82,12 @@
     "description": "This is another description for another apple",
     "price": 140,
     "image_url": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg"
+  },
+  {
+    "id": 13,
+    "name": "sd",
+    "description": "sads",
+    "price": 140,
+    "image_url": "dsd"
   }
 ]
