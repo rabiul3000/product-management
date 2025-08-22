@@ -4,97 +4,73 @@
     "name": "Wireless Headphones",
     "description": "Noise-cancelling over-ear headphones with 30 hours battery life.",
     "price": 99.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/11900946781534782654_0"
+    "image_url": "https://i.ibb.co.com/xtDSzKmk/headphones-3683983-1280.jpg"
   },
   {
     "id": 2,
     "name": "Smartwatch Pro",
     "description": "Fitness tracking, heart rate monitor, and GPS support.",
     "price": 149.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/12768258709608844588_0"
+    "image_url": "https://i.ibb.co.com/5X4MB5n8/smart-watch-821557-1280.jpg"
   },
   {
     "id": 3,
     "name": "4K Action Camera",
     "description": "Waterproof action camera with wide-angle lens and 64GB storage.",
     "price": 179.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/7245493813868754159_0"
+    "image_url": "https://i.ibb.co.com/hRdZtLdD/canon-5158887-1280.jpg"
+
   },
   {
     "id": 4,
     "name": "Mechanical Keyboard",
     "description": "RGB backlit mechanical keyboard with blue switches.",
     "price": 69.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/14872573724505728526_0"
+    "image_url": "https://i.ibb.co.com/chPHqdxV/keyboard-7386244-1280.jpg"
   },
   {
     "id": 5,
     "name": "Portable Bluetooth Speaker",
     "description": "Compact speaker with deep bass and 12 hours playtime.",
     "price": 49.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/305196544126378574_0"
+    "image_url": "https://i.ibb.co.com/DfhXLLsp/bluetooth-4311748-1280.jpg"
   },
   {
     "id": 6,
     "name": "Laptop Stand",
     "description": "Adjustable aluminum stand for laptops up to 17 inches.",
     "price": 29.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/6355014741565327165_0"
+    "image_url": "https://i.ibb.co.com/6JY8xHnP/laptop-6332600-1280.jpg"
   },
   {
     "id": 7,
     "name": "Smart LED Bulb",
     "description": "WiFi-enabled bulb with voice control and color options.",
     "price": 19.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/2860504407213332930_0"
+    "image_url": "https://i.ibb.co.com/tTmrkv15/lamp-2663053-1280.jpg"
   },
   {
     "id": 8,
     "name": "Ergonomic Office Chair",
     "description": "Mesh backrest, adjustable height, and lumbar support.",
     "price": 199.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/11760876311922338684_0"
+    "image_url": "https://i.ibb.co.com/wFVhY29D/chair-6657314-1280.jpg"
   },
   {
     "id": 9,
     "name": "Drone Mini",
     "description": "Compact drone with HD camera and beginner-friendly controls.",
     "price": 129.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/13968207251048498179_0"
+    "image_url": "https://i.ibb.co.com/yB555jY0/dji-5945362-1280.jpg"
+
   },
   {
     "id": 10,
     "name": "External SSD 1TB",
     "description": "High-speed portable solid-state drive with USB-C support.",
     "price": 119.99,
-    "image_url": "http://googleusercontent.com/image_collection/image_retrieval/9677893057160446835_0"
-  },
-  {
-    "id": 11,
-    "name": "apple",
-    "description": "A apple a day keep the doctors away",
-    "price": 120,
-    "image_url": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg"
-  },
-  {
-    "id": 12,
-    "name": "another apple",
-    "description": "This is another description for another apple",
-    "price": 140,
-    "image_url": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg"
-  },
-  {
-    "id": 13,
-    "name": "sd",
-    "description": "sads",
-    "price": 140,
-    "image_url": "dsd"
-  },
-  {
-    "id": 14,
-    "name": "s",
-    "description": "ss",
-    "price": 140,
-    "image_url": "sss"
+    "image_url": "https://i.ibb.co.com/6RQP39Rr/lenovo-1tb-portable-hard-drive-3688029-1280.jpg"
   }
 ]
+
+
